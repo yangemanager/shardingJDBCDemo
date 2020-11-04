@@ -1,0 +1,5 @@
+com\yuan\www\demo\config\Ds0Config.class
+com\yuan\www\demo\DemoApplication.class
+com\yuan\www\demo\mapper\ds0Mapper\ds0Mapper.class
+com\yuan\www\demo\config\Ds1Config.class
+com\yuan\www\demo\mapper\ds1Mapper\ds1Mapper.class
